@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362523680166",
+    "project_id": "pdf-reader---edit-document",
+    "storage_bucket": "pdf-reader---edit-document.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362523680166:android:b4bb2baf6a7d2549f48367",
+        "android_client_info": {
+          "package_name": "testkotliin.pdfreader.pdfeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362523680166-5piavpspogn7ibalj5g0vb3t0j72pmc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "testkotliin.pdfreader.pdfeditor",
+            "certificate_hash": "5e623f63495b3751d8b01733cf1242bb06581982"
+          }
+        },
+        {
+          "client_id": "362523680166-53qu09d9v1qtct5f3pf28fbjj2b1snpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgiXD3Ifh7jTO3XN7IkSpmGHZ8oFAMMYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362523680166-53qu09d9v1qtct5f3pf28fbjj2b1snpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

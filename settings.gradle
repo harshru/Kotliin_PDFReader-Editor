@@ -1,0 +1,4 @@
+rootProject.name = "PDF Reader - Book Reader, Edit Document"
+include ':app'
+include ':unity-ads'
+include ':AdsSdk'
